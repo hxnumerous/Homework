@@ -1,0 +1,14 @@
+D:\project\Homeworkday3\bin\Debug\net8.0\Homeworkday3.exe
+D:\project\Homeworkday3\bin\Debug\net8.0\Homeworkday3.deps.json
+D:\project\Homeworkday3\bin\Debug\net8.0\Homeworkday3.runtimeconfig.json
+D:\project\Homeworkday3\bin\Debug\net8.0\Homeworkday3.dll
+D:\project\Homeworkday3\bin\Debug\net8.0\Homeworkday3.pdb
+D:\project\Homeworkday3\obj\Debug\net8.0\Homeworkday3.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Homeworkday3\obj\Debug\net8.0\Homeworkday3.AssemblyInfoInputs.cache
+D:\project\Homeworkday3\obj\Debug\net8.0\Homeworkday3.AssemblyInfo.cs
+D:\project\Homeworkday3\obj\Debug\net8.0\Homeworkday3.csproj.CoreCompileInputs.cache
+D:\project\Homeworkday3\obj\Debug\net8.0\Homeworkday3.dll
+D:\project\Homeworkday3\obj\Debug\net8.0\refint\Homeworkday3.dll
+D:\project\Homeworkday3\obj\Debug\net8.0\Homeworkday3.pdb
+D:\project\Homeworkday3\obj\Debug\net8.0\Homeworkday3.genruntimeconfig.cache
+D:\project\Homeworkday3\obj\Debug\net8.0\ref\Homeworkday3.dll

@@ -1,0 +1,14 @@
+D:\project\03EX\bin\Debug\net8.0\03EX.exe
+D:\project\03EX\bin\Debug\net8.0\03EX.deps.json
+D:\project\03EX\bin\Debug\net8.0\03EX.runtimeconfig.json
+D:\project\03EX\bin\Debug\net8.0\03EX.dll
+D:\project\03EX\bin\Debug\net8.0\03EX.pdb
+D:\project\03EX\obj\Debug\net8.0\03EX.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\03EX\obj\Debug\net8.0\03EX.AssemblyInfoInputs.cache
+D:\project\03EX\obj\Debug\net8.0\03EX.AssemblyInfo.cs
+D:\project\03EX\obj\Debug\net8.0\03EX.csproj.CoreCompileInputs.cache
+D:\project\03EX\obj\Debug\net8.0\03EX.dll
+D:\project\03EX\obj\Debug\net8.0\refint\03EX.dll
+D:\project\03EX\obj\Debug\net8.0\03EX.pdb
+D:\project\03EX\obj\Debug\net8.0\03EX.genruntimeconfig.cache
+D:\project\03EX\obj\Debug\net8.0\ref\03EX.dll
