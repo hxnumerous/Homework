@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\project\\Homeworkday3\\",
+  "WorkspaceRootPath": "D:\\Xin\\Homework\\Homeworkday3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AC51B9F-2679-4F39-9D7F-52F03E5E1B6A}|Homeworkday3.csproj|d:\\project\\homeworkday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AC51B9F-2679-4F39-9D7F-52F03E5E1B6A}|Homeworkday3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Xin\\Homework\\Homeworkday3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\project\\Homeworkday3\\Program.cs",
+              "DocumentMoniker": "D:\\Xin\\Homework\\Homeworkday3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\project\\Homeworkday3\\Program.cs",
+              "ToolTip": "D:\\Xin\\Homework\\Homeworkday3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-05T10:12:07.045Z",
               "EditorCaption": ""
