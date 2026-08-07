@@ -1,0 +1,14 @@
+D:\Xin\EX05\bin\Debug\net8.0\EX05.exe
+D:\Xin\EX05\bin\Debug\net8.0\EX05.deps.json
+D:\Xin\EX05\bin\Debug\net8.0\EX05.runtimeconfig.json
+D:\Xin\EX05\bin\Debug\net8.0\EX05.dll
+D:\Xin\EX05\bin\Debug\net8.0\EX05.pdb
+D:\Xin\EX05\obj\Debug\net8.0\EX05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xin\EX05\obj\Debug\net8.0\EX05.AssemblyInfoInputs.cache
+D:\Xin\EX05\obj\Debug\net8.0\EX05.AssemblyInfo.cs
+D:\Xin\EX05\obj\Debug\net8.0\EX05.csproj.CoreCompileInputs.cache
+D:\Xin\EX05\obj\Debug\net8.0\EX05.dll
+D:\Xin\EX05\obj\Debug\net8.0\refint\EX05.dll
+D:\Xin\EX05\obj\Debug\net8.0\EX05.pdb
+D:\Xin\EX05\obj\Debug\net8.0\EX05.genruntimeconfig.cache
+D:\Xin\EX05\obj\Debug\net8.0\ref\EX05.dll

@@ -155,7 +155,7 @@
             //for (int i = 1; i <= m; i++)
             //{
             //    if (m % i == 0) count++;
-                
+
             //    if (i == m) break;
             //}
             //if (count > 2)
@@ -176,6 +176,16 @@
             //    }
             //    Console.WriteLine();
             //}
+
+            //foreach 遍历数组
+            int[] intArr = { 10, 20, 30, 40 };
+            foreach (int item in intArr)
+            {
+                Console.WriteLine(item);
+            }
+
+
+
         }
     }
 }

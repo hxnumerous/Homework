@@ -123,6 +123,19 @@ namespace Homeworkday4
             //}
             //Console.WriteLine($"银行要扣这个人的手续费扣{count}次,扣取最后剩余{money}");
 
+            //int count = 0;
+            //double money = 50000;
+            //for (; money > 5000; )
+            //{
+            //    money -= money * 0.05;
+            //         count++;
+            //    Console.WriteLine($"第{count}次扣款");
+            //    Console.WriteLine($"剩余{money}");
+
+            //}
+            //Console.WriteLine($"银行要扣这个人的手续费扣{count}次,扣取最后剩余{money}");
+
+
             //9.猴子摘桃，猴子摘了x个桃，每天吃一半，再多吃一个，第7天吃的时候剩下一个了，猴子摘了多少桃子？
             //int x = 1;
             //for (int i = 1; i < 7; i++)
@@ -153,6 +166,16 @@ namespace Homeworkday4
 
             //    Console.WriteLine($"第{i}次,皮球弹起了{height}米，皮球总过经历了{sum}米");
             //}
+
+            //double height = 10;
+            //double sum = 0;
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    sum += height * 1.5;
+            //    height = 0.5 * height;
+            //    Console.WriteLine($"第{i}次,皮球弹起了{height}米，皮球总过经历了{sum}米");
+            //}
+
         }
 
     }
