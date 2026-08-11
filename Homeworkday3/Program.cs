@@ -162,7 +162,7 @@ namespace Homeworkday3
         //};
         //Console.WriteLine($"{res4}");
 
-
+            //
     }
     }
 }
