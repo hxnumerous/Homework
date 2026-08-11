@@ -175,7 +175,7 @@ namespace Homeworkday4
             //    height = 0.5 * height;
             //    Console.WriteLine($"第{i}次,皮球弹起了{height}米，皮球总过经历了{sum}米");
             //}
-
+            //
         }
 
     }
