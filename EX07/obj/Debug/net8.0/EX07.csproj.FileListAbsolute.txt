@@ -1,0 +1,14 @@
+D:\Xin\EX07\bin\Debug\net8.0\EX07.exe
+D:\Xin\EX07\bin\Debug\net8.0\EX07.deps.json
+D:\Xin\EX07\bin\Debug\net8.0\EX07.runtimeconfig.json
+D:\Xin\EX07\bin\Debug\net8.0\EX07.dll
+D:\Xin\EX07\bin\Debug\net8.0\EX07.pdb
+D:\Xin\EX07\obj\Debug\net8.0\EX07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xin\EX07\obj\Debug\net8.0\EX07.AssemblyInfoInputs.cache
+D:\Xin\EX07\obj\Debug\net8.0\EX07.AssemblyInfo.cs
+D:\Xin\EX07\obj\Debug\net8.0\EX07.csproj.CoreCompileInputs.cache
+D:\Xin\EX07\obj\Debug\net8.0\EX07.dll
+D:\Xin\EX07\obj\Debug\net8.0\refint\EX07.dll
+D:\Xin\EX07\obj\Debug\net8.0\EX07.pdb
+D:\Xin\EX07\obj\Debug\net8.0\EX07.genruntimeconfig.cache
+D:\Xin\EX07\obj\Debug\net8.0\ref\EX07.dll
