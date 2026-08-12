@@ -258,17 +258,26 @@
                 if (item["songName"] == song) singerId = item["singerId"];
             }
 
-            // 遍历歌手集合  根据拿到的歌手id 去判断获取对应的歌手字典并 存储到新list中
-            foreach (Dictionary<string, dynamic> item in singerList)
+
+            if (singerId == 0)
             {
-                if (item["singerId"] == singerId) singerSongs.Add(item);
+                Console.WriteLine("未找到对应的歌手");
+            } else {
+                // 遍历歌手集合  根据拿到的歌手id 去判断获取对应的歌手字典并 存储到新list中
+                foreach (Dictionary<string, dynamic> item in singerList)
+                {
+                    if (item["singerId"] == singerId) singerSongs.Add(item);
+                }
+                // 遍历歌手的歌曲
+                foreach (dynamic item in singerSongs)
+                {
+                    Console.WriteLine(item["singerName"]);
+                }
+
             }
 
-            // 遍历歌手的歌曲
-            foreach (dynamic item in singerSongs)
-            {
-                Console.WriteLine(item["singerName"]);
-            }
+
+                
 
 
         }

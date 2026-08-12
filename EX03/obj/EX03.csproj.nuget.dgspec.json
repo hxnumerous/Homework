@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Xin\\Homework\\Homeworkday5\\Homeworkday5.csproj": {}
+    "D:\\Xin\\EX03\\EX03.csproj": {}
   },
   "projects": {
-    "D:\\Xin\\Homework\\Homeworkday5\\Homeworkday5.csproj": {
+    "D:\\Xin\\EX03\\EX03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Xin\\Homework\\Homeworkday5\\Homeworkday5.csproj",
-        "projectName": "Homeworkday5",
-        "projectPath": "D:\\Xin\\Homework\\Homeworkday5\\Homeworkday5.csproj",
+        "projectUniqueName": "D:\\Xin\\EX03\\EX03.csproj",
+        "projectName": "EX03",
+        "projectPath": "D:\\Xin\\EX03\\EX03.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Xin\\Homework\\Homeworkday5\\obj\\",
+        "outputPath": "D:\\Xin\\EX03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

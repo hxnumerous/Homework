@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\03EX\\03EX.csproj",
-      "projectName": "03EX",
-      "projectPath": "D:\\project\\03EX\\03EX.csproj",
+      "projectUniqueName": "D:\\Xin\\EX03\\EX03.csproj",
+      "projectName": "EX03",
+      "projectPath": "D:\\Xin\\EX03\\EX03.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\03EX\\obj\\",
+      "outputPath": "D:\\Xin\\EX03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

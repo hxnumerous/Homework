@@ -1,10 +1,9 @@
-﻿namespace _03EX
+﻿namespace EX03
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
             //1.小明择偶标准：要么资产在300w以上，要么颜值大于9.5。输入小红的资产和颜值
             //Console.WriteLine("请输入资产(w)：");
             //int money = int.Parse(Console.ReadLine());
@@ -19,7 +18,6 @@
             ////bool res = age >= 16 && age <= 22;
             //bool res = !( age < 16 || age >22);
             //Console.WriteLine(res);
-
 
             //3.根据输入的成绩判断是不及格(小于60),及格(大于60小于80), 良好(大于80小于90),优秀(大于90小于100)
             //Console.WriteLine("请输入您的成绩：");
@@ -41,7 +39,6 @@
             //    Console.WriteLine($"成绩:{score}  -优秀");
             //}
 
-
             //4.输入年份，判断是否是闰年(普通闰年：能被4整除但不能被100整除/世纪闰年：可以被400整除)
             //Console.WriteLine("请输入要查询的年份：");
             //int year = int.Parse(Console.ReadLine());
@@ -53,7 +50,6 @@
             //{
             //    Console.WriteLine($"{year}是平年");
             //}
-
 
             //5.输出星期几
             //Console.WriteLine("请输入数字1~7：");
@@ -85,7 +81,6 @@
             //        Console.WriteLine("请从新输入数字");
             //        break;
             //}
-
 
             //6. 输入分数 1~100
             // 判断等级输出
@@ -140,7 +135,6 @@
             //    }
             //}
 
-
             // 7.输出星期几  6-7输出周末  穿透写法
             //Console.WriteLine("请输入数字1~7：");
             //int n = int.Parse(Console.ReadLine());
@@ -172,7 +166,6 @@
             //    };
             //    Console.WriteLine($"{score}--{res}--");
             //}
-
 
             //9.三元表达式: 判断 成年了/ 未成年
             //Console.WriteLine("请输入您的年龄：");
