@@ -1,0 +1,14 @@
+D:\Xin\Homeworkday6\obj\Debug\net8.0\Homeworkday6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xin\Homeworkday6\obj\Debug\net8.0\Homeworkday6.AssemblyInfoInputs.cache
+D:\Xin\Homeworkday6\obj\Debug\net8.0\Homeworkday6.AssemblyInfo.cs
+D:\Xin\Homeworkday6\obj\Debug\net8.0\Homeworkday6.csproj.CoreCompileInputs.cache
+D:\Xin\Homeworkday6\bin\Debug\net8.0\Homeworkday6.exe
+D:\Xin\Homeworkday6\bin\Debug\net8.0\Homeworkday6.deps.json
+D:\Xin\Homeworkday6\bin\Debug\net8.0\Homeworkday6.runtimeconfig.json
+D:\Xin\Homeworkday6\bin\Debug\net8.0\Homeworkday6.dll
+D:\Xin\Homeworkday6\bin\Debug\net8.0\Homeworkday6.pdb
+D:\Xin\Homeworkday6\obj\Debug\net8.0\Homeworkday6.dll
+D:\Xin\Homeworkday6\obj\Debug\net8.0\refint\Homeworkday6.dll
+D:\Xin\Homeworkday6\obj\Debug\net8.0\Homeworkday6.pdb
+D:\Xin\Homeworkday6\obj\Debug\net8.0\Homeworkday6.genruntimeconfig.cache
+D:\Xin\Homeworkday6\obj\Debug\net8.0\ref\Homeworkday6.dll
