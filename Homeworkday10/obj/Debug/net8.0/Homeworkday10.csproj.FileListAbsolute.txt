@@ -1,0 +1,14 @@
+E:\ai视觉\Homeworkday10\bin\Debug\net8.0\Homeworkday10.exe
+E:\ai视觉\Homeworkday10\bin\Debug\net8.0\Homeworkday10.deps.json
+E:\ai视觉\Homeworkday10\bin\Debug\net8.0\Homeworkday10.runtimeconfig.json
+E:\ai视觉\Homeworkday10\bin\Debug\net8.0\Homeworkday10.dll
+E:\ai视觉\Homeworkday10\bin\Debug\net8.0\Homeworkday10.pdb
+E:\ai视觉\Homeworkday10\obj\Debug\net8.0\Homeworkday10.GeneratedMSBuildEditorConfig.editorconfig
+E:\ai视觉\Homeworkday10\obj\Debug\net8.0\Homeworkday10.AssemblyInfoInputs.cache
+E:\ai视觉\Homeworkday10\obj\Debug\net8.0\Homeworkday10.AssemblyInfo.cs
+E:\ai视觉\Homeworkday10\obj\Debug\net8.0\Homeworkday10.csproj.CoreCompileInputs.cache
+E:\ai视觉\Homeworkday10\obj\Debug\net8.0\Homeworkday10.dll
+E:\ai视觉\Homeworkday10\obj\Debug\net8.0\refint\Homeworkday10.dll
+E:\ai视觉\Homeworkday10\obj\Debug\net8.0\Homeworkday10.pdb
+E:\ai视觉\Homeworkday10\obj\Debug\net8.0\Homeworkday10.genruntimeconfig.cache
+E:\ai视觉\Homeworkday10\obj\Debug\net8.0\ref\Homeworkday10.dll
