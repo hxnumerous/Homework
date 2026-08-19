@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Xin\\Homework\\BookManager\\Homeworkday12.csproj": {}
+    "D:\\Xin\\Homework\\BookManager_2\\Homeworkday12.csproj": {}
   },
   "projects": {
-    "D:\\Xin\\Homework\\BookManager\\Homeworkday12.csproj": {
+    "D:\\Xin\\Homework\\BookManager_2\\Homeworkday12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Xin\\Homework\\BookManager\\Homeworkday12.csproj",
+        "projectUniqueName": "D:\\Xin\\Homework\\BookManager_2\\Homeworkday12.csproj",
         "projectName": "Homeworkday12",
-        "projectPath": "D:\\Xin\\Homework\\BookManager\\Homeworkday12.csproj",
+        "projectPath": "D:\\Xin\\Homework\\BookManager_2\\Homeworkday12.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Xin\\Homework\\BookManager\\obj\\",
+        "outputPath": "D:\\Xin\\Homework\\BookManager_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

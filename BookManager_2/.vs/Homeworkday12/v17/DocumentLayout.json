@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Xin\\Homework\\BookManager\\",
+  "WorkspaceRootPath": "D:\\Xin\\Homework\\BookManager_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{782948EE-72C4-49D7-925B-D294EC5D07F9}|Homeworkday12.csproj|d:\\xin\\homework\\bookmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{782948EE-72C4-49D7-925B-D294EC5D07F9}|Homeworkday12.csproj|d:\\xin\\homework\\bookmanager_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{782948EE-72C4-49D7-925B-D294EC5D07F9}|Homeworkday12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{782948EE-72C4-49D7-925B-D294EC5D07F9}|Homeworkday12.csproj|d:\\xin\\homework\\bookmanager\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{782948EE-72C4-49D7-925B-D294EC5D07F9}|Homeworkday12.csproj|d:\\xin\\homework\\bookmanager_2\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{782948EE-72C4-49D7-925B-D294EC5D07F9}|Homeworkday12.csproj|solutionrelative:bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -28,23 +32,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BookManager.cs",
-              "DocumentMoniker": "D:\\Xin\\Homework\\BookManager\\BookManager.cs",
+              "DocumentMoniker": "D:\\Xin\\Homework\\BookManager_2\\BookManager.cs",
               "RelativeDocumentMoniker": "BookManager.cs",
-              "ToolTip": "D:\\Xin\\Homework\\BookManager\\BookManager.cs",
+              "ToolTip": "D:\\Xin\\Homework\\BookManager_2\\BookManager.cs",
               "RelativeToolTip": "BookManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T11:00:19.169Z"
+              "WhenOpened": "2026-08-17T11:00:19.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Xin\\Homework\\BookManager\\Program.cs",
+              "DocumentMoniker": "D:\\Xin\\Homework\\BookManager_2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Xin\\Homework\\BookManager\\Program.cs",
+              "ToolTip": "D:\\Xin\\Homework\\BookManager_2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAowGoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowGoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T10:05:56.238Z",
               "EditorCaption": ""
