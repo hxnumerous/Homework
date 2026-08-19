@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Xin\\14day\\02-代码\\BookManger\\BookManger\\BookManger.csproj",
+      "projectUniqueName": "D:\\Xin\\Homework\\BookManager_1\\BookManger\\BookManger.csproj",
       "projectName": "BookManger",
-      "projectPath": "D:\\Xin\\14day\\02-代码\\BookManger\\BookManger\\BookManger.csproj",
+      "projectPath": "D:\\Xin\\Homework\\BookManager_1\\BookManger\\BookManger.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Xin\\14day\\02-代码\\BookManger\\BookManger\\obj\\",
+      "outputPath": "D:\\Xin\\Homework\\BookManager_1\\BookManger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

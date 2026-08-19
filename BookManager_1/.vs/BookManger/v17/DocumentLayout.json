@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Xin\\14day\\02-\u4EE3\u7801\\BookManger\\",
+  "WorkspaceRootPath": "D:\\Xin\\Homework\\BookManager_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|d:\\xin\\14day\\02-\u4EE3\u7801\\bookmanger\\bookmanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|solutionrelative:bookmanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|d:\\xin\\homework\\bookmanager_1\\bookmanger\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|solutionrelative:bookmanger\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|d:\\xin\\14day\\02-\u4EE3\u7801\\bookmanger\\bookmanger\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|solutionrelative:bookmanger\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|d:\\xin\\homework\\bookmanager_1\\bookmanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8BC18D-C43F-476C-B623-0A07A21CEFE0}|BookManger\\BookManger.csproj|solutionrelative:bookmanger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,34 +25,34 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BookManager.cs",
-              "DocumentMoniker": "D:\\Xin\\14day\\02-\u4EE3\u7801\\BookManger\\BookManger\\BookManager.cs",
+              "DocumentMoniker": "D:\\Xin\\Homework\\BookManager_1\\BookManger\\BookManager.cs",
               "RelativeDocumentMoniker": "BookManger\\BookManager.cs",
-              "ToolTip": "D:\\Xin\\14day\\02-\u4EE3\u7801\\BookManger\\BookManger\\BookManager.cs",
+              "ToolTip": "D:\\Xin\\Homework\\BookManager_1\\BookManger\\BookManager.cs",
               "RelativeToolTip": "BookManger\\BookManager.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAswJAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAgwKsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-19T03:18:32.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Xin\\14day\\02-\u4EE3\u7801\\BookManger\\BookManger\\Program.cs",
+              "DocumentMoniker": "D:\\Xin\\Homework\\BookManager_1\\BookManger\\Program.cs",
               "RelativeDocumentMoniker": "BookManger\\Program.cs",
-              "ToolTip": "D:\\Xin\\14day\\02-\u4EE3\u7801\\BookManger\\BookManger\\Program.cs",
+              "ToolTip": "D:\\Xin\\Homework\\BookManager_1\\BookManger\\Program.cs",
               "RelativeToolTip": "BookManger\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAANoAAAAAAAAAAAAowOoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-18T10:23:54.786Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         },
