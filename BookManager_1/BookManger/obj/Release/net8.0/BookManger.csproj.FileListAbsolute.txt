@@ -1,0 +1,14 @@
+D:\Xin\14day\02-代码\BookManger\BookManger\bin\Release\net8.0\BookManger.exe
+D:\Xin\14day\02-代码\BookManger\BookManger\bin\Release\net8.0\BookManger.deps.json
+D:\Xin\14day\02-代码\BookManger\BookManger\bin\Release\net8.0\BookManger.runtimeconfig.json
+D:\Xin\14day\02-代码\BookManger\BookManger\bin\Release\net8.0\BookManger.dll
+D:\Xin\14day\02-代码\BookManger\BookManger\bin\Release\net8.0\BookManger.pdb
+D:\Xin\14day\02-代码\BookManger\BookManger\obj\Release\net8.0\BookManger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xin\14day\02-代码\BookManger\BookManger\obj\Release\net8.0\BookManger.AssemblyInfoInputs.cache
+D:\Xin\14day\02-代码\BookManger\BookManger\obj\Release\net8.0\BookManger.AssemblyInfo.cs
+D:\Xin\14day\02-代码\BookManger\BookManger\obj\Release\net8.0\BookManger.csproj.CoreCompileInputs.cache
+D:\Xin\14day\02-代码\BookManger\BookManger\obj\Release\net8.0\BookManger.dll
+D:\Xin\14day\02-代码\BookManger\BookManger\obj\Release\net8.0\refint\BookManger.dll
+D:\Xin\14day\02-代码\BookManger\BookManger\obj\Release\net8.0\BookManger.pdb
+D:\Xin\14day\02-代码\BookManger\BookManger\obj\Release\net8.0\BookManger.genruntimeconfig.cache
+D:\Xin\14day\02-代码\BookManger\BookManger\obj\Release\net8.0\ref\BookManger.dll
